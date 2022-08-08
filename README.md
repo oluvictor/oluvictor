@@ -58,9 +58,11 @@ Name | Badges
  
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluvictor&layout=compact&theme=dark&hide_border=false" /> <a href="https://github.com/oluvictor">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=oluvictor&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Victor Ogunshola's stats"/></p>
+ <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluvictor&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Victor Ogunshola's stats"/>--></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oluvictor&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2" alt="Victor Ogunshola's github stats" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluvictor&theme=dark" alt="oluvictor" /></p>
+
 <br/>
 
 </a>
