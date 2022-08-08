@@ -48,7 +48,7 @@ Name | Badges
 ## ❤ Views and Followers.
 
 <a href="https://github.com/oluvictor/github-profile-views-counter">
-    <!--<img src="https://komarev.com/ghpvc/?username=oluvictor">-->
+    <img src="https://komarev.com/ghpvc/?username=oluvictor">
 </a>
 <a href="https://github.com/oluvictor?tab=followers"><img src="https://img.shields.io/github/followers/oluvictor?label=Followers&style=social" alt="GitHub Badge"></a>
 
@@ -57,14 +57,19 @@ Name | Badges
  
  
  ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluvictor&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oluvictor&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Victor Ogunshola's github stats" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluvictor&layout=compact&theme=dark&hide_border=false" /> <a href="https://github.com/oluvictor">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=oluvictor&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Victor Ogunshola's stats"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluvictor&theme=dark" alt="oluvictor" /></p>
 <br/>
+
+</a>
+<!--
+<br>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
 
 > <a href="https://github.com/oluvictor/github-readme-activity-graph"><img alt="Victor Ogunshola' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oluvictor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+-->
