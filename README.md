@@ -1,13 +1,12 @@
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center"> Hi there, I am Victor Ogunshola 👋</h1>
 
-- 🔭 I’m currently working on projects in C and Laravel
-- 🌱 I’m currently learning Python and Dart
-- 👯 I’m looking to collaborate on project that make me think out of the box
-- 💬 Ask me about PHP and C Programming language
+- 🔭 I am a technology leader, I lead project teams. When I want to code, I orchestrate infrastructure or write Laravel
+- 👯 I’m looking to collaborate on project that solve real world problems
+- 💬 Ask me about PHP, Laravel, DevOps (Github Actions, Terraform, CI/CD)
 - 📫 How to reach me: vogunshola@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been a developer for 9 years, now, I want to be an engineer.
+- ⚡ Fun fact: I love impossible projects.
 
 ## 🔗 Links
 <!--
@@ -36,7 +35,7 @@ Name | Badges
 
 ✅ Making others feel comfortable.
 
-✅ Work collaboratively in a team
+✅ Leading technology teams
 
 ✅ Working on projects that challenge my thinking pattern
 
@@ -57,8 +56,8 @@ Name | Badges
  
  
  ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluvictor&layout=compact&theme=dark&hide_border=false" /> <a href="https://github.com/oluvictor">
- <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluvictor&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Victor Ogunshola's stats"/>--></p>
+ <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluvictor&layout=compact&theme=dark&hide_border=false" /> <a href="https://github.com/oluvictor">
+--> <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluvictor&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Victor Ogunshola's stats"/>--></p>
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oluvictor&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2" alt="Victor Ogunshola's github stats" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluvictor&theme=dark" alt="oluvictor" /></p>
